@@ -1,0 +1,7 @@
+{
+    "name": "comp2156",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"Warning: No tests created yet.\""
+    }
+}
